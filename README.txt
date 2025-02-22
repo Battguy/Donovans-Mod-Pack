@@ -46,6 +46,9 @@ When you take a screenshot in game via the F2 key, it will also copy it to your 
 Gives some advanced features for bulk item crafting, moving, etc. It has some really handy keybinds none of which I remember at the time of writing this! Check out the keybinds here: https://modrinth.com/mod/item-scroller
 If you hate crafting many many MANY MANNNNY things, and handling many many MANY MANNNNY items, install this mod. (it makes it so much freaking easier)
 
+--- miniHUD ---
+Gives info about certain things such as light level, slime chunks, etc. If you hate additional info about the chunks you're in, don't install this mod.
+
 --- YetAnotherConfigLib ---
 Dependency for zoomify.
 
