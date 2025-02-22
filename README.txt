@@ -39,11 +39,19 @@ Not at all necessary most of the time. I do recommend just leaving it in your mo
 --- mod menu ---
 Adds the ability to edit your mods settings all in one convenient place. If you hate mods, don't install this mod.
 
+--- screencopy ---
+When you take a screenshot in game via the F2 key, it will also copy it to your clipboard. This allows for easy posting of screenshots in discord. If you have no friends to share images with, don't install this mod.
+
+--- intemscroller ---
+Gives some advanced features for bulk item crafting, moving, etc. It has some really handy keybinds none of which I remember at the time of writing this! Check out the keybinds here: https://modrinth.com/mod/item-scroller
+If you hate crafting many many MANY MANNNNY things, and handling many many MANY MANNNNY items, install this mod. (it makes it so much freaking easier)
+
 --- YetAnotherConfigLib ---
 Dependency for zoomify.
 
 --- fabric language kotlin ---
 Dependency for zoomify.
+
 
 --- malilib ---
 Dependency for tweakeroo.
